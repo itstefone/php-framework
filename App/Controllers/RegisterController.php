@@ -1,11 +1,11 @@
 <?php
 
 
-namespace App\Controllers;
+namespace itstefoneControllers;
 
-use App\Core\Request;
-use App\Models\User;
-use App\Core\Application;
+use itstefoneCore\Request;
+use itstefoneModels\User;
+use itstefoneCore\Application;
 
 class RegisterController extends Controller {
 

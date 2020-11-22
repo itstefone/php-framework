@@ -1,6 +1,6 @@
 <?php
 
-use App\Core\Application;
+use itstefoneCore\Application;
 
 class m0001_initial {
 

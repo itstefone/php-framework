@@ -1,11 +1,11 @@
 <?php
 
 
-namespace App\Core;
+namespace itstefoneCore;
 
-use App\Controllers\Controller;
-use App\Exception\ForbiddenException;
-use App\Models\DbModel;
+use itstefoneControllers\Controller;
+use itstefoneException\ForbiddenException;
+use itstefoneModels\DbModel;
 use Exception;
 
 class Application {

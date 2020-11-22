@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\Exception;
+namespace itstefoneException;
 
 use Exception;
 

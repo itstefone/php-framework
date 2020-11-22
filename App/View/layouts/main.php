@@ -2,7 +2,7 @@
 
 <?php
 
-use App\Core\Application;
+use itstefoneCore\Application;
 
 ?>
 
@@ -59,10 +59,10 @@ use App\Core\Application;
 
 
 
-<?php if(App\Core\Application::$app->session->getMessage('success')):?>
+<?php if(itstefoneCore\Application::$app->session->getMessage('success')):?>
 <div class="alert alert-success">
 
-<?php echo App\Core\Application::$app->session->getMessage('success') ?>
+<?php echo itstefoneCore\Application::$app->session->getMessage('success') ?>
 
 </div>
 <?php endif;?>

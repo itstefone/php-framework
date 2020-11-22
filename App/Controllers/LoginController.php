@@ -1,11 +1,11 @@
 <?php
 
 
-namespace App\Controllers;
+namespace itstefoneControllers;
 
-use App\Core\Application;
-use App\Core\Request;
-use App\Models\LoginForm;
+use itstefoneCore\Application;
+use itstefoneCore\Request;
+use itstefoneModels\LoginForm;
 
 class LoginController extends Controller {
 

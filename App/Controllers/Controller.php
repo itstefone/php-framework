@@ -1,9 +1,9 @@
 <?php
 
-namespace App\Controllers;
+namespace itstefoneControllers;
 
-use App\Core\Application;
-use App\Middleware\BaseMiddleware;
+use itstefoneCore\Application;
+use itstefoneMiddleware\BaseMiddleware;
 
 abstract class Controller {
 

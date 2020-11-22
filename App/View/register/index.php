@@ -1,6 +1,6 @@
 <?php
 
-use App\Form\Form;
+use itstefoneForm\Form;
 
  $form = Form::begin('post', '/register');
 ?>

@@ -1,11 +1,11 @@
 <?php
 
-use App\Controllers\HomeController;
-use App\Controllers\LoginController;
-use App\Controllers\ProfileController;
-use App\Controllers\RegisterController;
-use App\Core\Application;
-use App\Models\User;
+use itstefoneControllers\HomeController;
+use itstefoneControllers\LoginController;
+use itstefoneControllers\ProfileController;
+use itstefoneControllers\RegisterController;
+use itstefoneCore\Application;
+use itstefoneModels\User;
 
 require_once './vendor/autoload.php';
 $dotenv = Dotenv\Dotenv::createImmutable(__DIR__);

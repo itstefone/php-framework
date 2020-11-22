@@ -1,0 +1,1 @@
+<h1><?php echo $statusCode; ?>     <?php echo $message; ?>    </h1>

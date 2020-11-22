@@ -1,6 +1,6 @@
 <?php
 
-namespace itstefoneMiddleware;
+namespace itstefone\Middleware;
 
 
 abstract class BaseMiddleware {

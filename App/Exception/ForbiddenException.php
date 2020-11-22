@@ -1,7 +1,7 @@
 <?php
 
 
-namespace itstefoneException;
+namespace itstefone\Exception;
 
 use Exception;
 

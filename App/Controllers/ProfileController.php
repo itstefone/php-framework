@@ -1,8 +1,8 @@
 <?php
 
-namespace itstefoneControllers;
+namespace itstefone\Controllers;
 
-use itstefoneMiddleware\AuthMiddleware;
+use itstefone\Middleware\AuthMiddleware;
 
 class ProfileController extends Controller {
 

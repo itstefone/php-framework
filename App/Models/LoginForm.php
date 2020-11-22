@@ -1,8 +1,8 @@
 <?php
-namespace itstefoneModels;
+namespace itstefone\Models;
 
-use itstefoneCore\Application;
-use itstefoneCore\Request;
+use itstefone\Core\Application;
+use itstefone\Core\Request;
 
 class LoginForm extends Model {
 

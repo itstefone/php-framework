@@ -1,9 +1,9 @@
 <?php
 
-namespace itstefoneMiddleware;
+namespace itstefone\Middleware;
 
-use itstefoneCore\Application;
-use itstefoneException\ForbiddenException;
+use itstefone\Core\Application;
+use itstefone\Exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware {
 

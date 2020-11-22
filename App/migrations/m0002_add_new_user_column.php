@@ -1,6 +1,6 @@
 <?php
 
-use itstefoneCore\Application;
+use itstefone\Core\Application;
 
 class m0002_add_new_user_column {
 

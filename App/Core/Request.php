@@ -1,6 +1,6 @@
 <?php
 
-namespace itstefoneCore;
+namespace itstefone\Core;
 
 
 

@@ -2,9 +2,9 @@
 
 
 
-namespace itstefoneCore;
+namespace itstefone\Core;
 
-use itstefoneException\ForbiddenException;
+use itstefone\Exception\ForbiddenException;
 use Exception;
 
 class Router

@@ -1,9 +1,9 @@
 <?php
 
-use itstefoneControllers\HomeController;
-use itstefoneControllers\LoginController;
-use itstefoneControllers\RegisterController;
-use itstefoneCore\Application;
+use itstefone\Controllers\HomeController;
+use itstefone\Controllers\LoginController;
+use itstefone\Controllers\RegisterController;
+use itstefone\Core\Application;
 
 
 

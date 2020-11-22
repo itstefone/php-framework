@@ -1,8 +1,8 @@
 <?php
 
-namespace itstefoneModels;
+namespace itstefone\Models;
 
-use itstefoneCore\Application;
+use itstefone\Core\Application;
 
 abstract class DbModel extends Model {
 

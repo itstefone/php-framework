@@ -1,7 +1,7 @@
 <?php
 
 
-namespace itstefoneForm;
+namespace itstefone\Form;
 
 
 class Form {

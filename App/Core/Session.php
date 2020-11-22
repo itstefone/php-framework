@@ -1,7 +1,7 @@
 <?php
 
 
-namespace itstefoneCore;
+namespace itstefone\Core;
 
 
 class Session {

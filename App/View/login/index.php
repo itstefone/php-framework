@@ -1,6 +1,6 @@
 <?php
 
-use itstefoneForm\Form;
+use itstefone\Form\Form;
 
  $form = Form::begin('post', '/login');
 ?>

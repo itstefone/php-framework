@@ -1,6 +1,6 @@
 <?php
 
-namespace itstefoneControllers;
+namespace itstefone\Controllers;
 
 
 class HomeController extends Controller {

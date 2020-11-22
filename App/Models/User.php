@@ -1,7 +1,7 @@
 <?php
 
 
-namespace itstefoneModels;
+namespace itstefone\Models;
 
 
 

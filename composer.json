@@ -1,13 +1,10 @@
 {
-  "autoload": {
-    "psr-4": {
-      "App\\" : "App"
-    }
-  },
-  "require-dev": {
-    "symfony/var-dumper": "^5.1"
-  },
-  "require": {
-    "vlucas/phpdotenv": "^5.2"
-  }
+    "name": "itstefone/php-framework",
+    "authors": [
+        {
+            "name": "Stefan Aksentijevic",
+            "email": "stef1rugby@gmail.com"
+        }
+    ],
+    "require": {}
 }
